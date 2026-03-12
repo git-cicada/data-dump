@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+google-adk
+google-generativeai
+langchain
+langchain-openai
+langchain-community
+duckduckgo-search
+langgraph
+wikipedia
